@@ -1,7 +1,9 @@
 # 3Dprinting
-Repository of 3D printable anatomic models
+Repository of 3D printable medical models
 
-Fully printable training simulators for critical-care simulation, including surgical cricothyroidotomy, IO insertion, and endotracheal intubation. 
+Newly added are valve models for turning Snorkel gear into CPAP masks for positive pressure ventilation in collaboration with Dr. Riyaaz Ali Khan at Brampton Civic Hospital.
+
+The rest relates to creating fully printable training simulators for critical-care simulation, including surgical cricothyroidotomy, IO insertion, and endotracheal intubation. 
 
 Special thanks to collaborators Lily Park (medical student, University of Ottawa), Dr. Alireza Jalali (Head of Anatomy, University of Ottawa Faculty of Medicine)
 
